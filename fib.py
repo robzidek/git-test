@@ -1,6 +1,6 @@
+# fib sequence
 n = input("enter cutoff number")
 n = int(n)
-
 last = 1
 current = 1
 temp = 0
